@@ -1,0 +1,379 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("KAITO HUB", "Default")
+
+local tab = DrRayLibrary.newTab("Script", "ImageIdHere")
+
+tab.newButton("Gamepass Script 1", "Click me | Credit To Owner", function() loadstring(game:HttpGet(('https://raw.githubusercontent.com/BaconBossScript/Crazy/main/Crazy'),true))()
+end)
+
+tab.newButton("Gamepass Script 2", "Click me | Credit To Owner", function() loadstring(game:HttpGet("https://boykisser.army/p/raw/pl6mjl4xoy"))()
+end)
+
+local tab = DrRayLibrary.newTab("LIST", "ImageIdHere")
+
+tab.newButton("Charless Revenge [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Bou's Revenge [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Close Your Eyes [HORROR]", "Click me!", function()
+
+end)
+
+tab.newButton("The Real Ingredients [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Smelly Killer [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Midnight Zoo [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Midnight Motel [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Insomnia [HORROR]", "Click me!", function()
+end)
+
+tab.newButton("Scary Simon Says", "Click me!", function()
+end)
+
+tab.newButton("CASEOH WANTS TO EAT YOU.", "Click me!", function()
+end)
+
+tab.newButton("Grandma's Sus Birthday", "Click me!", function()
+end)
+
+tab.newButton("Grow Snowball Race", "Click me!", function()
+end)
+
+tab.newButton("Squatted Truck Simulator", "Click me!", function()
+end)
+
+tab.newButton("Club Line Simulator", "Click me!", function()
+end)
+
+tab.newButton("Insane Button Simulator", "Click me!", function()
+end)
+
+tab.newButton("Concert Line Simulator", "Click me!", function()
+end)
+
+tab.newButton("Club Line Simulator 2", "Click me!", function()
+end)
+
+tab.newButton("Hospital Line Simulator!", "Click me!", function()
+end)
+
+tab.newButton("Turn of Night [Horror]", "Click me!", function()
+end)
+
+tab.newButton("Us Are Toys", "Click me!", function()
+end)
+
+tab.newButton("Rickey Rat", "Click me!", function()
+end)
+
+tab.newButton("Line Simulator For Admin", "Click me!", function()
+end)
+
+tab.newButton("Mirage Waterslide Line", "Click me!", function()
+end)
+
+tab.newButton("Tallest Waterslide Line Simulator", "Click me!", function()
+end)
+
+tab.newButton("Mega Waterslide Simulator", "Click me!", function()
+end)
+
+tab.newButton("Drift Race Simulator", "Click me!", function()
+end)
+
+tab.newButton("[BACKROOMS] Cult Of The Cryptids", "Click me!", function()
+end)
+
+tab.newButton("Shield Row Simulator", "Click me!", function()
+end)
+
+tab.newButton("Beam Battle Simulator", "Click me!", function()
+end)
+
+tab.newButton("Tower Simulator", "Click me!", function()
+end)
+
+tab.newButton("Oil Up", "Click me!", function()
+end)
+
+tab.newButton("Find The Flags", "Click me!", function()
+end)
+
+tab.newButton("MAKE EVERYONE BALD TYCOON", "Click me!", function()
+end)
+
+tab.newButton("making scam calls to save your best friend tycoon", "Click me!", function()
+end)
+
+tab.newButton("MY WIFE LEFT ME TYCOON", "Click me!", function()
+end)
+
+tab.newButton("START AN EMO BAND FROM YOUR GARAGE TYCOON", "Click me!", function()
+end)
+
+tab.newButton("GO TO JAIL AND MAKE FRIENDS TO ESCAPE TYCOON", "Click me!", function()
+end)
+
+tab.newButton("FEEDING TRASH TO RICH PEOPLE TYCOON", "Click me!", function()
+end)
+
+tab.newButton("making memes in your basement at 3 AM Tycoon", "Click me!", function()
+end)
+
+tab.newButton("SELL POOP TYCOON", "Click me!", function()
+end)
+
+tab.newButton("get cancelled tycoon", "Click me!", function()
+end)
+
+tab.newButton("BECOME A FAMOUS RAPPER AND PROVE MOM WRONG TYCOON", "Click me!", function()
+end)
+
+tab.newButton("STEAL CANDY FROM BABIES TYCOON", "Click me!", function()
+end)
+
+tab.newButton("SELL UGLY CLOTHES TYCOON", "Click me!", function()
+end)
+
+tab.newButton("steal games tycoon", "Click me!", function()
+end)
+
+tab.newButton("Find The ODD Emoji Quiz", "Click me!", function()
+end)
+
+tab.newButton("Find the Auras", "Click me!", function()
+end)
+
+tab.newButton("Aura Craft", "Click me!", function()
+end)
+
+tab.newButton("Horror Elevator! [SCARY]", "Click me!", function()
+end)
+
+tab.newButton("Don't Press Pou!", "Click me!", function()
+end)
+
+tab.newButton("Shoot A Friend [2 Player Obby]", "Click me!", function()
+end)
+
+tab.newButton("Don't Press The Button Furious Jumper", "Click me!", function()
+end)
+
+tab.newButton("Don't Press Barry Prison Run!", "Click me!", function()
+end)
+
+tab.newButton("DONT GET ELIMINATED", "Click me!", function()
+end)
+
+tab.newButton("GET TO THE END", "Click me!", function()
+end)
+
+tab.newButton("The Dropper", "Click me!", function()
+end)
+
+tab.newButton("Survive 100 Days In Nuclear Shelter", "Click me!", function()
+end)
+
+tab.newButton("MR GREASE GAMESHOW", "Click me!", function()
+end)
+
+tab.newButton("PROJECT MONSTER", "Click me!", function()
+end)
+
+tab.newButton("Backrooms Infection", "Click me!", function()
+end)
+
+tab.newButton("HUNGRY ENTITY", "Click me!", function()
+end)
+
+tab.newButton("The Horror Elevator [SCARY]", "Click me!", function()
+end)
+
+tab.newButton("SURVIVAL THE CASEOH THE KILLER!!", "Click me!", function()
+end)
+
+tab.newButton("[FNAF] Freedy's Scary Elevator", "Click me!", function()
+end)
+
+tab.newButton("Survive 100 Days on a Desert Island", "Click me!", function()
+end)
+
+tab.newButton("Clucky's", "Click me!", function()
+end)
+
+tab.newButton("Cross Invisible Path to RICH", "Click me!", function()
+end)
+
+tab.newButton("Pick Right Path to RICH!", "Click me!", function()
+end)
+
+tab.newButton("Cross Invisible Path to MAGIC CARPET!", "Click me!", function()
+end)
+
+tab.newButton("Cross Invisible Path for a RAINBOW CARPET!", "Click me!", function()
+end)
+
+tab.newButton("Easy Squid Game! Possible Glass Bridge!", "Click me!", function()
+end)
+
+tab.newButton("INSANE EASY OBBY", "Click me!", function()
+end)
+
+tab.newButton("EASY EASY PINK TOWER! Bridge! (100+ STAGES!)", "Click me!", function()
+end)
+
+tab.newButton("Skibidi Toilet PRISON RUN! (Escape Obby)", "Click me!", function()
+end)
+
+tab.newButton("Team Daycare Escape! (TEAMWORK OBBY)", "Click me!", function()
+end)
+
+tab.newButton("Lucky Block Obby", "Click me!", function()
+end)
+
+tab.newButton("Impossible Glass Bridge (Squid Game)", "Click me!", function()
+end)
+
+tab.newButton("Don't Press Shin Sonic Tape!", "Click me!", function()
+end)
+
+tab.newButton("TROLL Obby Per Difficult Chart!", "Click me!", function()
+end)
+
+tab.newButton("LAST ORDER! (SURVIVAL PUZZLE OBBY)", "Click me!", function()
+end)
+
+tab.newButton("GRUMPY GRAN! (SCARY OBBY)", "Click me!", function()
+end)
+
+tab.newButton("GREAT SCHOOL BREAKOUT! (First Person Obby)", "Click me!", function()
+end)
+
+tab.newButton("99% Easy Glass Bridge Obby! (Squid Game)", "Click me!", function()
+end)
+
+tab.newButton("Impossible Glass Bridge Obby", "Click me!", function()
+end)
+
+tab.newButton("Lab Escape Obby", "Click me!", function()
+end)
+
+tab.newButton("Galaxy Obby", "Click me!", function()
+end)
+
+tab.newButton("Chill Pastel Obby", "Click me!", function()
+end)
+
+tab.newButton("Teddy Escape", "Click me!", function()
+end)
+
+tab.newButton("Win Obby Get $R (Free VIP)", "Click me!", function()
+end)
+
+tab.newButton("Jump On Biggest Trampoline Obby", "Click me!", function()
+end)
+
+tab.newButton("Siren Head : The Forest", "Click me!", function()
+end)
+
+tab.newButton("THE SIREN HEAD", "Click me!", function()
+end)
+
+tab.newButton("DON'T GET RIZZED", "Click me!", function()
+end)
+
+tab.newButton("DON'T GET FIRED!", "Click me!", function()
+end)
+
+tab.newButton("Fun Glass Bridge Obby For Admin", "Click me!", function()
+end)
+
+tab.newButton("Escape The Impossible Maze For Admin", "Click me!", function()
+end)
+
+tab.newButton("Floor Is Lava For Admin", "Click me!", function()
+end)
+
+tab.newButton("Guess The Logo Quiz For Admin", "Click me!", function()
+end)
+
+tab.newButton("Climb 999 Stairs to Admin Obby", "Click me!", function()
+end)
+
+tab.newButton("Escape Maze Obby For Admin", "Click me!", function()
+end)
+
+tab.newButton("Easy Obby", "Click me!", function()
+end)
+
+tab.newButton("Better Memes!", "Click me!", function()
+end)
+
+tab.newButton("Better Gender?", "Click me!", function()
+end)
+
+tab.newButton("Better YouTuber?", "Click me!", function()
+end)
+
+tab.newButton("Realm Rng", "Click me!", function()
+end)
+
+tab.newButton("Zombie Lab", "Click me!", function()
+end)
+
+tab.newButton("[FPS] No-Scope Arcade", "Click me!", function()
+end)
+
+tab.newButton("[FPS] No-Scope Arcade (2021)", "Click me!", function()
+end)
+
+tab.newButton("No-Scope Sniping", "Click me!", function()
+end)
+
+tab.newButton("Predator RNG", "Click me!", function()
+end)
+
+tab.newButton("KJCT (PS+)", "Click me!", function()
+end)
+
+tab.newButton("KJCT (HALLOWEEN)", "Click me!", function()
+end)
+
+tab.newButton("[ The Strongest KJ Battleground FREE El Primo ] ", "Click me!", function()
+end)
+
+tab.newButton("KJ's Return", "Click me!", function()
+end)
+
+tab.newButton("Better Meme?", "Click me!", function()
+end)
+
+tab.newButton("REAL DONATIONS", "Click me!", function()
+end)
+
+tab.newButton("99% Easy Glass Bridge Obby (Squid Game)", "Click me!", function()
+end)
+
+tab.newButton("ESCAPE POLICE BASEMENT RUN! (OBBY)", "Click me!", function()
+end)
+
+tab.newButton("Better Artist?", "Click me!", function()
+end)
+
+tab.newButton("RNG Competitive Timing", "Click me!", function()
+end)
+
+tab.newButton("Carwash Line Simulator", "Click me!", function()
+end)
+
+tab.newButton("Name", "Click me!", function()
+end)
